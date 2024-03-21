@@ -1,14 +1,32 @@
 h1{ 
 color: red;
+margin-left: 47px;
 
 }
+
+li {
+display: inline-block;
+margin-left: 6px
+
+}
+
+
+p {
+padding: 0px 20px;
+
+
+}
+
 
 #but{
 color: blueviolet
 
 }
 
-body{
-background-color: antiquewhite;
-
+body{ 
+background-color: rgb(250, 236, 218);
+padding: 0px;
+margin-left: 0px ;
 }
+
+
